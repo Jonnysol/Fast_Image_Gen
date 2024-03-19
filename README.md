@@ -1,6 +1,6 @@
-## Lightning Fast SDXL API demo by fal.ai
+## Lightning Fast SDXL API demo 
 
-This application is a sample of the SDXL Lightning API [https://fal.ai/models/stable-diffusion-xl-lightning]. It also shows the `fal.realtime` client in action.
+This application is a test of the SDXL Lightning API [https://fal.ai/models/stable-diffusion-xl-lightning]. It also shows the `fal.realtime` client in action.
 
 ### Prerequisites
 
